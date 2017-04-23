@@ -15,7 +15,6 @@
         android:layout_alignBottom="@+id/message_user"
         android:layout_alignParentEnd="true"
         android:id="@+id/message_time"
-        android:textStyle="normal|bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
